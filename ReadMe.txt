@@ -1,0 +1,1 @@
+This plugin is a plugin with which you can create images.
